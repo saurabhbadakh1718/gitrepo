@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
  Mom Hello
+=======
+Hello world
+>>>>>>> b179247a8fbb92575d3e3d8367652da84dbd6edf
